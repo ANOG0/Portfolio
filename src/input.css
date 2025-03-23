@@ -3,3 +3,8 @@
 h1 {
     text-shadow: rgb(0, 0, 0) 15px 15px 15px;
 }
+
+video {
+    width: 1280;
+    height: 720;
+}
